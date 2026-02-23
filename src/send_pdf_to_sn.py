@@ -12,7 +12,7 @@ def send_pdf_to_sn():
     """
     TODO
     """
-    with open('config.json','r') as file:
+    with open('/home/jakelamers/Documents/Code/python/send_daily_to_sn/config.json','r') as file:
         config = json.load(file)
 
     # Email configuration
