@@ -10,6 +10,7 @@ This is code to create a daily pdf to be sent via a crontab task to my supernote
 - get expenses from expenses webpage self hosted
 - get weather page from a website
 - add page for journal
+- Merge in El pias daily
 - automatically save to rpi via ssh
 ### Future Directions:
 - to be continued...
