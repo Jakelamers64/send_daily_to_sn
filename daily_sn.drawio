@@ -1,9 +1,77 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0" version="29.4.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0" version="29.6.0">
   <diagram name="Page-1" id="w3rb3_IJfJnu3qi9S0Uv">
-    <mxGraphModel>
+    <mxGraphModel dx="2995" dy="2080" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="zVXbE1v3iJUK-o8MUC-y-3" edge="1" parent="1" source="zVXbE1v3iJUK-o8MUC-y-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="zVXbE1v3iJUK-o8MUC-y-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVXbE1v3iJUK-o8MUC-y-11" edge="1" parent="1" source="zVXbE1v3iJUK-o8MUC-y-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zVXbE1v3iJUK-o8MUC-y-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVXbE1v3iJUK-o8MUC-y-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Daily pdf created on rpi" vertex="1">
+          <mxGeometry height="60" width="120" x="170" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="zVXbE1v3iJUK-o8MUC-y-7" edge="1" parent="1" source="zVXbE1v3iJUK-o8MUC-y-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="zVXbE1v3iJUK-o8MUC-y-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="620" />
+              <mxPoint x="-130" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zVXbE1v3iJUK-o8MUC-y-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Daily pdf used to track habits during the dat" vertex="1">
+          <mxGeometry height="60" width="140" x="630" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="zVXbE1v3iJUK-o8MUC-y-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Pdf sent from rpi to supernote via email" vertex="1">
+          <mxGeometry height="60" width="120" x="390" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="zVXbE1v3iJUK-o8MUC-y-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Obsidian db folder created on rpi" vertex="1">
+          <mxGeometry height="60" width="120" x="-190" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="zVXbE1v3iJUK-o8MUC-y-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Edited Daily pdf is uploaded to the obsidian db folder at the end of the day" vertex="1">
+          <mxGeometry height="60" width="120" x="270" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="zVXbE1v3iJUK-o8MUC-y-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="daily pdf is stored in daily obsidian folder" vertex="1">
+          <mxGeometry height="60" width="120" x="-10" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="zVXbE1v3iJUK-o8MUC-y-14" edge="1" parent="1" source="zVXbE1v3iJUK-o8MUC-y-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zVXbE1v3iJUK-o8MUC-y-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVXbE1v3iJUK-o8MUC-y-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Internal resources" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="zVXbE1v3iJUK-o8MUC-y-16" edge="1" parent="1" source="zVXbE1v3iJUK-o8MUC-y-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zVXbE1v3iJUK-o8MUC-y-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVXbE1v3iJUK-o8MUC-y-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="External resources" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="zVXbE1v3iJUK-o8MUC-y-18" edge="1" parent="1" source="zVXbE1v3iJUK-o8MUC-y-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zVXbE1v3iJUK-o8MUC-y-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVXbE1v3iJUK-o8MUC-y-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Calendar&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="-120" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="zVXbE1v3iJUK-o8MUC-y-20" edge="1" parent="1" source="zVXbE1v3iJUK-o8MUC-y-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="zVXbE1v3iJUK-o8MUC-y-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVXbE1v3iJUK-o8MUC-y-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Tasks" vertex="1">
+          <mxGeometry height="60" width="120" x="-120" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zVXbE1v3iJUK-o8MUC-y-22" edge="1" parent="1" source="zVXbE1v3iJUK-o8MUC-y-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="zVXbE1v3iJUK-o8MUC-y-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVXbE1v3iJUK-o8MUC-y-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Budget" vertex="1">
+          <mxGeometry height="60" width="120" x="-120" y="-100" as="geometry" />
+        </mxCell>
+        <mxCell id="zVXbE1v3iJUK-o8MUC-y-24" edge="1" parent="1" source="zVXbE1v3iJUK-o8MUC-y-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zVXbE1v3iJUK-o8MUC-y-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVXbE1v3iJUK-o8MUC-y-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Granma Daily" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="140" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
